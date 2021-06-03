@@ -5,6 +5,7 @@ My main goal is to find a unifying model of language processing using network ne
 I'm currently learning how to integrate machine learning pipelines with complex naturalistic brain data. This involves, in short, annotating movie stimuli in detail, as well
 as predicting what a subject was seeing/hearing from the brain acitivity patterns.
 I'm looking to collaborate in anything related to graph theory algorithms and their application to neuroscience :brain:
+
  --- Please feel free to reach me at sarah.aliko.17@ucl.ac.uk --- 
 
 <!---
